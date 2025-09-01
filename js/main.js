@@ -1,4 +1,4 @@
-// Portfolio Siti Wahyuni — interactions & animations
+// Portfolio Siti Wahyuni - interactions & animations
 
 (function () {
   const $ = (q, c = document) => c.querySelector(q);
